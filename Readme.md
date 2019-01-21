@@ -1,0 +1,1 @@
+While developing Simon game app, I encountered issues in drawing the actual game board, so I decided to learn HTML5 Canvas more thoroughly by reading a book Steve Fulton's "HTML5 Canvas". In this repository I keep my practice written code
